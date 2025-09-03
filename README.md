@@ -17,7 +17,10 @@ The constructed Bimodal Multi-category Pavement Defect (BMPD) dataset and public
 ## 2. 🚀 Get Start
 
 ```
-git clone 
+git clone https://github.com/Yaan-Wang/GPAL.git
+cd GPAL
+mkdir dataset
+mkdir ckpts
 ```
 
 **1. Download Datasets and Pretrained Ckeckpoints**
@@ -31,6 +34,7 @@ BMPD Dataset
 
 ```
 cd  GPAL/BMPD_EXP
+mkdir output
 ```
 Train
 ```
@@ -46,6 +50,7 @@ NPO++ Dataset
 
 ```
 cd  GPAL/NPO_EXP
+mkdir output
 ```
 Train
 ```
