@@ -16,9 +16,13 @@ The constructed Bimodal Multi-category Pavement Defect (BMPD) dataset and public
 
 ## 2. 🚀 Get Start
 
+```
+git clone 
+```
+
 **1. Download Datasets and Pretrained Ckeckpoints**
 
-Download the datasets from the above link, and put them into the folder 'data'.  Download pretrained ckeckpoints via [Baidu Netdisk](https://pan.baidu.com/s/11ViqYktU8MaMoKRfMvbTuw?pwd=6abx) and put them into the folder 'ckpts'.
+Download the datasets from the above link, and put them into the folder 'dataset'.  Download pretrained ckeckpoints via [Baidu Netdisk](https://pan.baidu.com/s/11ViqYktU8MaMoKRfMvbTuw?pwd=6abx) and put them into the folder 'ckpts'.
 
 
 **2. Train & Test**
