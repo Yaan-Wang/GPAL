@@ -33,7 +33,7 @@ Download the datasets from the above link, and put them into the folder 'dataset
 BMPD Dataset
 
 ```
-cd  GPAL/BMPD_EXP
+cd  BMPD_EXP
 mkdir output
 ```
 Train
@@ -49,7 +49,7 @@ After training and testing , the checkpoints and test results will be saved in t
 NPO++ Dataset
 
 ```
-cd  GPAL/NPO_EXP
+cd  NPO_EXP
 mkdir output
 ```
 Train
